@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdityaSrivatsa
-- 👀 I’m interested in Physics. Particle physics interests me the most but I also like astrophyics and cosmology
+- 👀 I’m interested in Physics. Quantum Mechanics interests me the most but I also like astrophyics and cosmology
 - 🌱 I’m currently in 2nd year BSc at St. Joseph's College Bangalore triple majoring in Physics, Maths and computer science
 - 💞️ I’m looking to collaborate on papers/research in physics
 - 📫 How to reach me email id: asvatsa01@gmail.com
